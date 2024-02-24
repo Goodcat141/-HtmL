@@ -1,0 +1,17 @@
+ h1, h2, h3 {
+	text-align: center;
+}
+h1, h2, h3 {
+	text-align: center;
+	text-align: center;
+	color: blue;
+	font-size: 16px;
+	color: red;
+}
+h3 {
+    text-align: center;
+}
+li > b {
+    color: red;
+  }
+  
