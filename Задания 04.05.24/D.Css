@@ -1,0 +1,7 @@
+#elem {
+	border-width: 1px;
+	border-style: dashed;
+	border-color: rgb(244, 165, 17);
+	width: 300px;
+	height: 200px;
+}
