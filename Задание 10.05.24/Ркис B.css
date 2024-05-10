@@ -1,0 +1,20 @@
+#elem {
+width: 300px;
+height: 200px;
+border: 1px solid red;
+}
+#elent {
+width: 300px;
+height: 200px;
+border: 2px dotted blue;
+}
+#elents {
+width: 300px;
+height: 200px;
+border: 3px dashed green;
+}
+#elentss {
+width: 300px;
+height: 200px;
+border: 5px double orange;
+   }
