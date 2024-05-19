@@ -1,0 +1,8 @@
+body {
+    background-repeat: repeat-y;
+    background-image: url("bg.png");
+}
+body {
+    display: block;
+    margin: 8px;
+}
